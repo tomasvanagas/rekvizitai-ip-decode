@@ -1,4 +1,4 @@
-# Rekvizitai.lt IP dekodavimo skriptas
+# Rekvizitai.lt atsiliepimų IP dekodavimo skriptas
 
 </br>
 
